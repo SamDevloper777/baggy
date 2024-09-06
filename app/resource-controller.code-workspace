@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../laravel/resource-controller"
+		},
+		{
+			"path": "../../foodienext"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
